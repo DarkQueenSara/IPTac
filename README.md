@@ -24,16 +24,16 @@ pip install lolcat
 pip install requests
 
 
-git clone https://github.com/noob-hackers/ipdrone
+git clone https://github.com/DarkQueenSara/IPTac
 
 
 ls
 
 
-cd ipdrone
+cd IPTac
 
 
 ls
 
 
-python ipdrone.py -v (your victim ip here)
+python ipTac.py -v (your victim ip here)
